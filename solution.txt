@@ -1,0 +1,12 @@
+5+9*16//8+(9/3)**3-(12+3)+(6-4)*2//8-6+9+(12*6)+3-(10%8)
+Step # 1...Parenthesis
+5+9*16//8+3**3-15+2*2//8-6+9+72+3-2
+
+Step # 2...Exponent
+5+9*16//8+27.0-15+2*2//8-6+9+72+3-2
+
+Step # 3...Multiplication & Division..Left to Right
+5+18+27.0-15+0-6+9+72+3-2
+
+Step # 4...Addition & Subtraction..Left to Right
+111.0
